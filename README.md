@@ -1,4 +1,4 @@
-![Header](./github-header-image.svg)
+![Header](./github-header-image.gif)
 <h1 align="center">Hi 👋, I'm Hala</h1>
 <h3 align="center">A Developer on a Mission💡| Building the Future with Code❤️</h3>
 

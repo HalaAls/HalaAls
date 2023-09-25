@@ -7,7 +7,7 @@
 
 - 🌻 I’m currently learning **React | Redux | JavaScript/TypeScript | Node.js | Express.js | MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HalaAls](https://github.com/HalaAls)
+- 👩‍💻 All of my projects are available at [https://github.com/HalaAls](https://github.com/HalaAls)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

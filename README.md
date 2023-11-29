@@ -35,18 +35,8 @@
 <hr/>
 <h2 align="center">Stats </h2>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img  width="400" src="https://github-readme-stats.vercel.app/api?username=halaals&count_private=true&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="halaals" />
-      </td>
-      <td align="center">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=halaals&show_icons=true&locale=en&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="halaals" />
-      </td>
-      <td align="center">
-        <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=halaals&count_private=true&theme=react&border_radius=10" alt="halaals" />
-      </td>
-    </tr>
-  </table>
+    <p><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=halaals&show_icons=true&locale=en&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="halaals" /></p>    
+    <p><img  width="400" src="https://github-readme-stats.vercel.app/api?username=halaals&count_private=true&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="halaals" /></p>
+    <p><img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=halaals&count_private=true&theme=react&border_radius=10" alt="halaals" /></p>
 </div>
 <hr/>
